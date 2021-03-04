@@ -464,12 +464,12 @@ header .menu .menu_right a{
     padding-bottom:8%;
 }
 /*Button Send*/
-.container .contact h6 {
+.container .contact p {
     text-align:center;
     font-size:0.9vw;
     padding-bottom:5%;
 }
-.container .contact h6 input {
+.container .contact p input {
     text-decoration:none;
     padding:1% 2%;
     background:red;
@@ -478,11 +478,11 @@ header .menu .menu_right a{
     outline:none;
     border:none;
 }
-.container .contact h6 input:hover{
+.container .contact p input:hover{
     background:#464E90;
     color:white;
 }
-.container .contact h6 a:hover{
+.container .contact p a:hover{
     color:#464E90;
     width:100%;
     background:#464E90;    
